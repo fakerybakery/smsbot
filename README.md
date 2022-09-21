@@ -10,7 +10,7 @@ This is a very simple bot powered by BlenderBot 3 and Twilio. Send an SMS messag
 ```
 git clone https://github.com/fakerybakery/smsbot.git
 ```
-2. Run Server: Run in Terminal:
+2. Open the Quickstart version. Skip to #5. -OR- Run Server: Run in Terminal:
 macOS Version:
 ```
 python3 main.py
