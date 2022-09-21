@@ -1,4 +1,4 @@
-#!/bin.bash
+#!/bin/bash
 echo "SMSBot Quickstart by mrfakename"
 echo "Checking for updates..."
 NEWEST_VERSION=$(curl "https://raw.githubusercontent.com/fakerybakery/smsbot/main/src/main.py")
