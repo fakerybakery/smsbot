@@ -66,3 +66,6 @@ I didn't want to pay for Google Cloud and I've already used up my AWS free trial
 ## Credits/Keywords
 Some code is from: [abdallah197/Whatsapp-HuggingFace-Chatbot](https://github.com/abdallah197/Whatsapp-HuggingFace-Chatbot)
 Uses: HuggingFace Transformers, ParlAI (BlenderBot 2.0 3B)
+
+
+&copy; 2022 mrfakename. All rights reserved.
