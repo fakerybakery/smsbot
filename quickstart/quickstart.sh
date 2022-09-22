@@ -7,7 +7,7 @@ echo "Checking for updates..."
 if CURRENT_VERSION != NEWEST_VERSION then
 echo "You are on the latest version."
 echo "Starting server..."
-/usr/bin/python3 main.py
+/usr/bin/python3 "main.py"
 else
 echo "An update is available! Now updating files..."
 curl "https://raw.githubusercontent.com/fakerybakery/smsbot/main/src/main.py" >> main.py
