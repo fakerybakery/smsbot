@@ -4,7 +4,7 @@ echo "Checking for updates..."
 NEWEST_VERSION=$(curl "https://raw.githubusercontent.com/fakerybakery/smsbot/main/src/main.py")
 CURRENT_VERSION=$(cat main.py)
 echo "Checking for updates..."
-if CURRENT_VERSION != NEWEST_VERSION
+if [CURRENT_VERSION != NEWEST_VERSION];
 then
         echo "You are on the latest version."
         echo "Starting server..."
