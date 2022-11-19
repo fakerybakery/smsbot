@@ -60,7 +60,7 @@ If all is working well, it should take a minute (at most 3 or 4 minutes) to resp
 Does it work? If not, make sure to leave an issue, otherwise, please leave a `Star`, `Watch`, and maybe even `Fork`!
 
 ## Heroku? Google Cloud? AWS? What next?
-I tried uploading to Heroku, but it was larger than 0.5 GB (in fact, 1.3 GB!)
+I tried uploading to Heroku, but it was larger than 0.5 GB (in fact, 1.3 GB!) UPDATE: Heroku is going paid - your best option may be AWS, Google Cloud, or Azure.
 
 I didn't want to pay for Google Cloud and I've already used up my AWS free trial :(. Maybe later I'll figure out how to do this! Please, make an issue if you have advice on how to do this!
 ## Credits/Keywords
